@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ORWMA LV6</string>
+    <string name="bp_fragment">Bruno Petković</string>
+    <string name="mk_fragment">Mateo Kovačić</string>
+    <string name="lm_fragment">Luka Modrić</string>
+    <string name="bb_fragment">Borna Barišić</string>
+</resources>
